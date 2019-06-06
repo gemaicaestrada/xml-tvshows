@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<tvshows xmlns="https://www.w3.org/TR/REC-xml-names">
+  <shows>
+     <showname genre="horror">Supernatural</showname>
+    <leadingman>James Armstrong</leadingman>
+    <leadingwoman>Sarah Lewitt</leadingwoman>
+    <directedby>Daniel Padilla</directedby>
+    <producer>Bong Revilla</producer>
+    <companyname>Showcase Corporation</companyname>
+  </shows>
+  
+  <shows>
+      <showname genre="drama">The Greatest Showman</showname>
+      <leadingman>Michael Gomez</leadingman>
+      <leadingwoman>Janica Perez</leadingwoman>
+      <directedby>Petra Solano</directedby>
+      <producer>Furrey Steinman</producer>
+      <companyname>Cengage Maxilla Corporation</companyname>
+  </shows>
+  
+  <shows>
+      <showname genre="comedy">The Hidden Wall</showname>
+      <leadingman>Harry Middleton</leadingman>
+      <leadingwoman>Jennifer Swaggerchaun</leadingwoman>
+      <directedby>Jenry Villamar</directedby>
+      <producer>Jose Mari Chan</producer>
+      <companyname>White Telenova International</companyname>
+  </shows>
+  
+</tvshows>
